@@ -27,8 +27,8 @@ var initialize = function() {
   mistakeClick.onclick = setToMistake;
 
   var setToLonely = function() {
-    mainMap.googleMap.setCenter({lat: 45.562828, lng: -81.465340});
-    mainMap.googleMap.setZoom(12);
+    mainMap.googleMap.setCenter({lat: 30.332741, lng: -81.436753});
+    mainMap.googleMap.setZoom(18);
   };
 
   var lonelyClick = document.querySelector('#lonely-button');
