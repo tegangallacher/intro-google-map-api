@@ -1,4 +1,28 @@
 #main-map {
-  height: 500px;
-  width: 500px;
+  height: 570px;
+  width: 600px;
+  position: absolute;
 }
+
+body {
+  font-family: helvetica;
+  color: black;
+  font-size: 75px;
+  text-align: right;
+  background-image: url("http://66.media.tumblr.com/e07a13cbb03345bbbef55945595d7d31/tumblr_od0ofoiJZ81qggr7to1_1280.gif");
+ background-repeat: no-repeat;
+ background-position: right top;
+  background-color: FloralWhite;
+  position: fixed;
+      top: 0;
+      left: 0;
+      width: 98%;
+      height: 100%;
+}
+
+button {
+  background-color: DarkSlateGray ;
+  color: white;
+}
+
+/*http://68.media.tumblr.com/0d527d921886bda49122917add88d06d/tumblr_nfyetzgzzP1rpowflo1_1280.jpg*/
